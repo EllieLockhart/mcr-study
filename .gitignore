@@ -1,2 +1,4 @@
 exports.ini
 config_b/neo.yaml
+config_b/neo.json
+config_b/boto.json
